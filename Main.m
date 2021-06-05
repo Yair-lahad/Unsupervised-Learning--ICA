@@ -1,6 +1,6 @@
 %% Exercise 5- Independent component analysis (ICA)
 
-% yair lahad 205493018
+% yair lahad
 clear; close all; clc;
 % This code uses infomax ICA algorighm in order to seperate mixed sounds
 % into their sources, also include PCA and sanger rule methods
